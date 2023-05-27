@@ -7,12 +7,12 @@
     },
     {
       "title": "Learn to create custom hooks",
-      "isDone": false,
+      "isDone": true,
       "id": 2
     },
     {
       "title": "Learn to use context",
-      "isDone": true,
+      "isDone": false,
       "id": 3
     },
     {
