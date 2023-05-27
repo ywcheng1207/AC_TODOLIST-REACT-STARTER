@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/AC_TODOLIST-REACT-STARTER/static/css/main.4922d5c4.css",
-    "main.js": "/AC_TODOLIST-REACT-STARTER/static/js/main.c0fef245.js",
+    "main.js": "/AC_TODOLIST-REACT-STARTER/static/js/main.cad5b579.js",
     "static/js/787.17f4b47e.chunk.js": "/AC_TODOLIST-REACT-STARTER/static/js/787.17f4b47e.chunk.js",
-    "static/media/ac-logo.svg": "/AC_TODOLIST-REACT-STARTER/static/media/ac-logo.e27122aa732b0fa92b9aa444dfc92a91.svg",
+    "static/media/ac-logo.svg": "/AC_TODOLIST-REACT-STARTER/static/media/ac-logo.a6cb13a699b447cf99497a412b01486a.svg",
     "index.html": "/AC_TODOLIST-REACT-STARTER/index.html",
-    "static/media/check-hover.svg": "/AC_TODOLIST-REACT-STARTER/static/media/check-hover.036557778f06fb35ecaee51b8fbe68f1.svg",
-    "static/media/check-active.svg": "/AC_TODOLIST-REACT-STARTER/static/media/check-active.7e6b83beaf103f565c87dcda620aef50.svg",
-    "static/media/check-circle.svg": "/AC_TODOLIST-REACT-STARTER/static/media/check-circle.e1584afbe03d3ed24452839b7f57275f.svg",
+    "static/media/check-hover.svg": "/AC_TODOLIST-REACT-STARTER/static/media/check-hover.760bf3aafcc19c8e12a1f9061975a3ac.svg",
+    "static/media/check-active.svg": "/AC_TODOLIST-REACT-STARTER/static/media/check-active.36291668c728417fc573e41961098764.svg",
+    "static/media/check-circle.svg": "/AC_TODOLIST-REACT-STARTER/static/media/check-circle.d6b25921d6d6eb88409e251fcd5371ff.svg",
     "main.4922d5c4.css.map": "/AC_TODOLIST-REACT-STARTER/static/css/main.4922d5c4.css.map",
-    "main.c0fef245.js.map": "/AC_TODOLIST-REACT-STARTER/static/js/main.c0fef245.js.map",
+    "main.cad5b579.js.map": "/AC_TODOLIST-REACT-STARTER/static/js/main.cad5b579.js.map",
     "787.17f4b47e.chunk.js.map": "/AC_TODOLIST-REACT-STARTER/static/js/787.17f4b47e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4922d5c4.css",
-    "static/js/main.c0fef245.js"
+    "static/js/main.cad5b579.js"
   ]
 }
