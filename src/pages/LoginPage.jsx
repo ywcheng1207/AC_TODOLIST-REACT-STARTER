@@ -9,7 +9,7 @@ import { AuthInput } from 'components'
 import { useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 // import { login, checkPermission } from 'api/auth'
-import { checkPermission } from 'api/auth'
+// import { checkPermission } from 'api/auth'
 import Swal from 'sweetalert2'
 import { useAuth } from 'contexts/AuthContext'
 
