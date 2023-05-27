@@ -1,4 +1,4 @@
-# ✨Todo List - React
+# ✨Todo List - React [DEMO](https://ywcheng1207.github.io/AC_TODOLIST-REACT-STARTER/login)
 
 ![](public/screenshot-01.JPG)
 
@@ -8,7 +8,7 @@
 
 ## ✨ Features
 
-使用者可以新增、編輯、刪除 todo
+使用者可以 - 註冊、登入、登出 帳號 - 新增、編輯、刪除 todos
 
 ## ✨ Start the project
 
